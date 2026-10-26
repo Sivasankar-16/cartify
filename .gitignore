@@ -32,8 +32,3 @@ dist-ssr
 #server
 */data/cart.json
 */data/app.db
-
-#SQL Lite
-*.db-wal
-*.db-shm
-*.db-journal
